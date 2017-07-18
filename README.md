@@ -3,7 +3,7 @@
     <meta charset="utf-8">
   
     <title>To Do List</title>
-    <link rel="stylesheet" href="style.css">
+
   </head>
   <body>
     <h1> TDL-  </h1>
