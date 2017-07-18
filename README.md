@@ -1,8 +1,11 @@
 ## To Do list
 
-You can use the [editor on GitHub](https://github.com/mario2234456/todo.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+List of Daily Chores
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1.Take Barky to the restroom
+2.Throw out trash
+3.Clean Room
+4.Feed Barky
 
 ### Markdown
 
