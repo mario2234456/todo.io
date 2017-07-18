@@ -2,10 +2,10 @@
 
 List of Daily Chores
 
-1.Take Barky to the restroom
-2.Throw out trash
-3.Clean Room
-4.Feed Barky
+-1.Take Barky to the restroom
+-2.Throw out trash
+-3.Clean Room
+-4.Feed Barky
 
 ### Markdown
 
