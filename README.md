@@ -2,7 +2,7 @@
   <head>
     <meta charset="utf-8">
   
-    <title>Made with Thimble</title>
+    <title>To Do List</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
